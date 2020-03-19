@@ -1,0 +1,23 @@
+<div class="container-fluid padding">
+<div class="row text-center padding">
+	<div class="col-xs-12 col-sm-6 col-md-4">
+		<img src="bdc.jpg" width="25%">
+		<h3>Birdthday</h3>	
+		<p>make your Birdthday memorable</p>
+		
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4">
+		
+		<h3>Wedding</h3>		
+		<p>We make sure that you never forget your doy of Wedding</p>
+	
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4">
+		
+		<h3>Pre Wedding</h3>		
+		<p>It is best part of Wedding</p>
+	
+	</div>
+</div>
+<hr class="my-4">
+</div>
